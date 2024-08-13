@@ -3,6 +3,7 @@ nav:
   - index.md
   - design.md
   - program.md
+  - exterior.md
 theme:
   language: ja
   name: material
